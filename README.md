@@ -1,2 +1,2 @@
 # nf-workflows
-Repository of Nextflow Workflows for use on the Prince HPC at NYU
+Repository of Nextflow workflows for use on the Prince HPC at NYU
